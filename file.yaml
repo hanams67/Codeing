@@ -4,4 +4,10 @@
   firstName: Vihaan
   lastName: Kaluvala
   likesCoding: True
+
+  run:
+    steps:
+      student: coder
+      listing: at_the'8'
   student: True
+---
